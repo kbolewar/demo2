@@ -3,3 +3,4 @@ Adding file4.txt
 adding 2nd line for staging area
 
 adding 3rd line for working dir 
+updating file4.txt
