@@ -1,2 +1,3 @@
 Adding file2.txt
 modifying file2.txt
+updating file2.txt
