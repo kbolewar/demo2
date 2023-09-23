@@ -5,3 +5,4 @@ new file3.txt changes for simple file verification
 new deployment changes
 modifying file3.txt
 updating file3.txt
+modify file3.txt
